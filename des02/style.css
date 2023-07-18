@@ -1,0 +1,34 @@
+
+body{
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+div{
+    border-radius: 30px;
+    justify-content: center;
+    width: 300px;
+    min-height: 375px;
+    max-height: 1000px;
+    margin: auto;
+    display: inline-block;
+}
+.div1, .div2 {
+    display: inline-block;
+    width: 50%; 
+    vertical-align: top; 
+  }
+
+
+
+
+.listar{
+    list-style-image: url('assets/images/icon-reaction.svg');
+}
+.listam{
+    list-style-image: url('assets/images/icon-memory.svg');
+}
+.listave{
+    list-style-image: url('assets/images/icon-verbal.svg');
+}
+.listavi{
+    list-style-image: url('assets/images/icon-visual.svg');
+}
